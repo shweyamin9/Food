@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Mrs+Sheppards&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Yanone+Kaffeesatz:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&family=Mrs+Sheppards&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Yanone+Kaffeesatz:wght@200..700&display=swap');
+
+/* #home{
+        background: url(./imgs/ff.png);
+        background-size: cover;
+        background-position: center;
+        height: 90vh;
+} */
+.nav-item a:hover{
+    color: red;
+
+
+}
+#home button{
+    padding: 10px;
+    border-top-right-radius: 40%;
+    border-bottom-left-radius: 40%;
+}
+#main button{
+    padding: 10px;
+    border-top-right-radius: 40%;
+    border-bottom-left-radius: 40%;
+}
+
+#list button{
+    border-radius: 20px;
+}
+#testimonial-section{
+    background-color: red;
+}
+
+
